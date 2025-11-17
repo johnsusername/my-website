@@ -119,18 +119,18 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
                 <article class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-[var(--penguin-blue)]">
                     <h3 class="text-2xl font-semibold mb-3">Emperor Penguin</h3>
-                    <img src="https://placehold.co/600x400/0A3D62/FFFFFF?text=Emperor+Penguin" alt="A tall Emperor Penguin standing in the Antarctic snow." class="w-full h-auto rounded-lg mb-4 object-cover">
+                    <img src="https://www.publicdomainpictures.net/pictures/490000/velka/keizerspinguin-pinguin-vogel.jpg" alt="A tall Emperor Penguin standing in the Antarctic snow." class="w-full h-auto rounded-lg mb-4 object-cover">
                     <p class="text-gray-600">The tallest and heaviest of all penguin species, Emperor Penguins breed during the harsh Antarctic winter.</p>
                 </article>
                 <article class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-[var(--penguin-blue)]">
                     <h3 class="text-2xl font-semibold mb-3">African Penguin</h3>
-                    <img src="https://placehold.co/600x400/0A3D62/FFFFFF?text=African+Penguin" alt="An African Penguin in a rocky coastal environment." class="w-full h-auto rounded-lg mb-4 object-cover">
+                    <img src="https://s3.animalia.bio/animals/photos/full/original/1620px-bettys-bay-3069jpg.webp" class="w-full h-auto rounded-lg mb-4 object-cover">
                     <p class="text-gray-600">The only penguin species native to Africa, distinguishable by its pink patches above the eyes.</p>
                 </article>
                 <!-- Grid Item 3: Little -->
                 <article class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-[var(--penguin-blue)]">
                     <h3 class="text-2xl font-semibold mb-3">Little Penguin</h3>
-                    <img src="https://placehold.co/600x400/0A3D62/FFFFFF?text=Little+Penguin" alt="A very small Little Penguin waddling on a beach." class="w-full h-auto rounded-lg mb-4 object-cover">
+                    <img src="https://cdn12.picryl.com/photo/2016/12/31/penguin-animal-zoo-animals-d056b1-1024.jpg" alt="A very small Little Penguin waddling on a beach." class="w-full h-auto rounded-lg mb-4 object-cover">
                     <p class="text-gray-600">Also known as the fairy penguin, this is the smallest penguin species, found on the coasts of Australia and New Zealand.</p>
                 </article>
             </div>
